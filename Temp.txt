@@ -1,1 +1,1 @@
-Created by Sam
+Created by Sam for the development of a Logout feature
